@@ -1,7 +1,7 @@
 class UsersController < ApplicationController
 
   def index
-    @name = "I am the Index action!"
+    @name = "I am the Index action in the USER controller!"
   end
 
   def new

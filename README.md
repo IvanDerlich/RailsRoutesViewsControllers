@@ -5,4 +5,4 @@
 
 # Directives
 
-    [Link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers)
+ [Link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers)
